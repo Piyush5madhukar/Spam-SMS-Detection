@@ -1,5 +1,7 @@
 Spam SMS Detection Using LSTM - Project Report  (Model deployed link: https://huggingface.co/spaces/piyushmadhukar/SPAM_SMS_DETECTION)
 
+![Uploading image.png…]()
+
 1. IntroductioN :Spam messages are a common issue in digital communication, often causing inconvenience and security threats. This project aims to build an efficient SMS classification model that accurately distinguishes spam messages from legitimate ones using a Long Short-Term Memory (LSTM) neural network.
 
 2. Dataset Description :The dataset used for this project consists of labeled SMS messages categorized as either "ham" (legitimate) or "spam" (unwanted). The dataset contains:
